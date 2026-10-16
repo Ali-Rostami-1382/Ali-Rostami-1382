@@ -75,7 +75,7 @@ I believe in learning by building, staying curious, and improving one step at a 
 
 Explore my work, projects, and frontend development skills.
 
-- 🌐 **Personal Portfolio:** [Visit my website](https://ali-rostami-1382.github.io/portfolio/)
+- 🌐 **Personal Portfolio:** [Visit my website](https://ali-rostami-1382.github.io/Portfolio/)
 - 💻 **GitHub Repositories:** [Explore my projects](https://github.com/Ali-Rostami-1382?tab=repositories)
 
 ---
