@@ -49,11 +49,15 @@ I believe in learning by building, staying curious, and improving one step at a 
 
 ## 🌱 What I'm Working Toward
 
-- Strengthening my frontend fundamentals
-- Building responsive websites and interactive applications
+- Strengthening my frontend fundamentals and building better web experiences
 - Improving my React, Next.js, and TypeScript skills
-- Creating projects that demonstrate my progress
-- Learning best practices and writing better code
+- Expanding my programming knowledge by exploring **Python, C#, C, C++, Java**, and other languages
+- Building practical projects to apply what I learn
+- Developing cleaner, more accessible, and maintainable code
+
+## 🤖 AI Enthusiast
+
+I enjoy using AI to work smarter, solve problems, and get things done **better and faster**. I see AI as a powerful tool that complements my own skills—not a replacement for them. I combine AI-assisted workflows with my own thinking, coding, and problem-solving to learn continuously and build more effective solutions.
 
 ## 🚀 Projects
 
