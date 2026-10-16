@@ -1,34 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Ali%20Rostami&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Modern%20Web%20Experiences&descAlignY=60&descSize=17" width="100%" alt="Ali Rostami profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Ali%20Rostami&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Computer%20Enthusiast&descAlignY=60&descSize=17" width="100%" alt="Ali Rostami profile banner" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+by+Building;Exploring+React%2C+Next.js+%26+Vue.js;Always+Learning%2C+Always+Growing" alt="Animated typing introduction" />
+<a href="https://ali-rostami-1382.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit my portfolio" />
 </a>
-
-<br />
-
-<img src="https://img.shields.io/badge/Focus-Frontend%20Development-58A6FF?style=flat-square" alt="Focus: Frontend Development" />
-<img src="https://img.shields.io/badge/Approach-Learn%20%26%20Build-A371F7?style=flat-square" alt="Approach: Learn and Build" />
+<a href="https://github.com/Ali-Rostami-1382?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my projects" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Hey, I'm Ali!
 
-Hi, I'm **Ali Rostami**, a frontend developer focused on building modern, responsive, and user-friendly web experiences.
+I'm a **frontend developer based in Tehran, Iran**, and someone who's genuinely fascinated by computers and technology.
 
-- 🌱 Improving my frontend development skills every day
-- 💻 Exploring modern JavaScript frameworks and tools
-- 🚀 Building practical projects and growing my portfolio
-- 🎯 Focused on writing clean, accessible, and maintainable code
+I love coding, experimenting with ideas, figuring out how things work, and turning concepts into real, usable applications. For me, programming isn't just a skill to learn—it's something I genuinely enjoy doing.
 
-I believe in learning by building, staying curious, and improving one step at a time.
+- 💻 Building modern, responsive web experiences
+- ⚛️ Working with JavaScript, TypeScript, React, Next.js, and Vue
+- 🛠️ Learning by building projects and solving real problems
+- 🎨 Interested in clean interfaces, thoughtful UX, and maintainable code
+- 📚 Studying Russian language and literature at the [University of Tehran](https://ut.ac.ir/en)
 
-## 🛠️ Tech Stack
+**A little plot twist:** I study Russian literature while building web applications. Apparently, debugging JavaScript and decoding Russian literature weren't enough to keep my brain busy. 😅
 
-**Languages & Fundamentals**
+I even enjoy watching programming tutorials in Russian—because why practice one thing when you can practice two?
+
+## 🧰 Technologies I Work With
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -37,66 +38,73 @@ I believe in learning by building, staying curious, and improving one step at a 
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-**Frameworks & Libraries**
-
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
 </p>
 
----
+I'm always exploring new tools and expanding my understanding of software development. I care about more than making something work—I want to understand *why* it works and how to make it better.
 
-## 🌱 What I'm Working Toward
+## 🚀 Featured Projects
 
-- Strengthening my frontend fundamentals and building better web experiences
-- Expanding my programming knowledge by exploring **Python, C#, C, C++, Java**, and other languages
-- Building practical projects to apply what I learn
-- Developing cleaner, more accessible, and maintainable code
+### 🌐 [Personal Portfolio](https://ali-rostami-1382.github.io/Portfolio/)
 
-## 🤖 AI Enthusiast
+My portfolio website, where I showcase my work, experiment with frontend design, and continuously improve the way I present my projects.
 
-I enjoy using AI to work smarter, solve problems, and get things done **better and faster**. I see AI as a powerful tool that complements my own skills—not a replacement for them. I combine AI-assisted workflows with my own thinking, coding, and problem-solving to learn continuously and build more effective solutions.
+**[View source code →](https://github.com/Ali-Rostami-1382/Portfolio)**
 
-## 🚀 Projects
+### ✅ [Daymark — Task Manager](https://github.com/Ali-Rostami-1382/task-manager)
 
-Explore my work, projects, and frontend development skills.
+A task-management project focused on organizing work and building a practical application.
 
-- 🌐 **Personal Portfolio:** [Visit my website](https://ali-rostami-1382.github.io/Portfolio/)
-- 💻 **GitHub Repositories:** [Explore my projects](https://github.com/Ali-Rostami-1382?tab=repositories)
+**[Explore the repository →](https://github.com/Ali-Rostami-1382/task-manager)**
 
----
+More projects, experiments, and ideas are waiting in my repositories.
 
-<div align="center">
+**[Browse all my repositories →](https://github.com/Ali-Rostami-1382?tab=repositories)**
 
-### 🤝 Thanks for Visiting!
+## 🧠 Beyond the Code
 
-Feel free to explore my repositories and follow my journey as I learn and build.
+I'm curious about technology in general—not just the parts I use every day. I enjoy exploring how software works, learning new concepts, and using tools, including AI, to improve my workflow while staying involved in the thinking and problem-solving.
 
-<a href="https://github.com/Ali-Rostami-1382">
-  <img src="https://img.shields.io/badge/Explore%20My%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub" />
-</a>
+My goal is to keep growing as a developer by building things, learning from mistakes, and understanding the technology behind the screen.
 
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer banner" />
-
-*Always learning. Always building.* ✨
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub at a Glance
 
 <div align="center">
 
 <a href="https://github.com/Ali-Rostami-1382">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Rostami-1382&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub statistics" />
 </a>
-
 <a href="https://github.com/Ali-Rostami-1382">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rostami-1382&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
 </a>
+
+</div>
+
+*Stats are just numbers. The real progress happens in the code.*
+
+---
+
+## 🤝 Let's Connect
+
+If you're interested in web development, technology, or building cool things, feel free to explore my work or reach out.
+
+<div align="center">
+
+<a href="https://github.com/Ali-Rostami-1382">
+  <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://ali-rostami-1382.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Say%20Hello-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="https://t.me/AliRistimi">
+  <img src="https://img.shields.io/badge/Telegram-Connect-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<br />
+
+**Always curious. Always coding. Always building.** 💻
 
 </div>
