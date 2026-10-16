@@ -47,22 +47,6 @@ I believe in learning by building, staying curious, and improving one step at a 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/Ali-Rostami-1382">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Rostami-1382&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub statistics" />
-</a>
-
-<a href="https://github.com/Ali-Rostami-1382">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rostami-1382&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
-</a>
-
-</div>
-
----
-
 ## 🌱 What I'm Working Toward
 
 - Strengthening my frontend fundamentals
@@ -95,5 +79,21 @@ Feel free to explore my repositories and follow my journey as I learn and build.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0D1117&height=100&section=footer" width="100%" alt="Decorative footer banner" />
 
 *Always learning. Always building.* ✨
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/Ali-Rostami-1382">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Rostami-1382&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/Ali-Rostami-1382">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rostami-1382&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+</a>
 
 </div>
