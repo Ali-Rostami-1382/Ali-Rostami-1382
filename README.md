@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Ali%20Rostami&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20in%20Progress&descAlignY=60&descSize=17" width="100%" alt="Ali Rostami profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=180&section=header&text=Ali%20Rostami&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Modern%20Web%20Experiences&descAlignY=60&descSize=17" width="100%" alt="Ali Rostami profile banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Beginner+Frontend+Developer;Learning+by+Building;Exploring+React%2C+Next.js+%26+Vue.js;Always+Learning%2C+Always+Growing" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;Learning+by+Building;Exploring+React%2C+Next.js+%26+Vue.js;Always+Learning%2C+Always+Growing" alt="Animated typing introduction" />
 </a>
 
 <br />
@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-Hi, I'm **Ali Rostami**, a beginner frontend developer learning to build modern, responsive, and user-friendly web experiences.
+Hi, I'm **Ali Rostami**, a frontend developer focused on building modern, responsive, and user-friendly web experiences.
 
 - 🌱 Improving my frontend development skills every day
 - 💻 Exploring modern JavaScript frameworks and tools
