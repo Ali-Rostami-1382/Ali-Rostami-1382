@@ -48,6 +48,14 @@ I'm always exploring new tools and expanding my understanding of software develo
 
 ## 🚀 Featured Projects
 
+### 🌦️ [Atmos — Weather Dashboard](https://github.com/Ali-Rostami-1382/Atmos)
+
+A modern weather dashboard built with React and TypeScript, featuring live conditions, hourly and 7-day forecasts, saved places, precipitation and UV information, and light/dark themes.
+
+**Tech:** React · TypeScript · Vite · Open-Meteo
+
+**[Explore the repository →](https://github.com/Ali-Rostami-1382/Atmos)**
+
 ### 🌐 [Personal Portfolio](https://ali-rostami-1382.github.io/Portfolio/)
 
 My portfolio website, where I showcase my work, experiment with frontend design, and continuously improve the way I present my projects.
@@ -70,23 +78,6 @@ I'm curious about technology in general—not just the parts I use every day. I 
 
 My goal is to keep growing as a developer by building things, learning from mistakes, and understanding the technology behind the screen.
 
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<a href="https://github.com/Ali-Rostami-1382">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Rostami-1382&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/Ali-Rostami-1382">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rostami-1382&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
-</a>
-
-</div>
-
-*Stats are just numbers. The real progress happens in the code.*
-
----
-
 ## 🤝 Let's Connect
 
 If you're interested in web development, technology, or building cool things, feel free to explore my work or reach out.
@@ -108,3 +99,22 @@ If you're interested in web development, technology, or building cool things, fe
 **Always curious. Always coding. Always building.** 💻
 
 </div>
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<a href="https://github.com/Ali-Rostami-1382">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ali-Rostami-1382&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/Ali-Rostami-1382">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Rostami-1382&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" alt="Most used programming languages" />
+</a>
+
+</div>
+
+*Stats are just numbers. The real progress happens in the code.*
+
+---
