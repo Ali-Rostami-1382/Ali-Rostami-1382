@@ -50,7 +50,6 @@ I believe in learning by building, staying curious, and improving one step at a 
 ## 🌱 What I'm Working Toward
 
 - Strengthening my frontend fundamentals and building better web experiences
-- Improving my React, Next.js, and TypeScript skills
 - Expanding my programming knowledge by exploring **Python, C#, C, C++, Java**, and other languages
 - Building practical projects to apply what I learn
 - Developing cleaner, more accessible, and maintainable code
