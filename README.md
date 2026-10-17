@@ -14,9 +14,7 @@
 
 <br/><br/>
 
-<a href="https://komarev.com/ghpvc/?username=Ali-Rostami-1382&style=for-the-badge&color=7F00FF&label=PROFILE%20VISITORS">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Rostami-1382&style=for-the-badge&color=7F00FF&label=PROFILE%20VISITORS" alt="Profile visitors counter" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=Ali-Rostami-1382&label=PROFILE+VIEWS&color=7F00FF&style=flat-square)
 
 </div>
 
