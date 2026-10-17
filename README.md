@@ -10,7 +10,7 @@
 
 <a href="https://ali-rostami-1382.github.io/Portfolio/"><img src="https://img.shields.io/badge/✦%20PORTFOLIO-FF4D8D?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/Ali-Rostami-1382?tab=repositories"><img src="https://img.shields.io/badge/⌘%20PROJECTS-7F00FF?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-<a href="https://ali-rostami-1382.github.io/Portfolio/Ali_Rostami_Frontend_CV_EN.pdf"><img src="https://img.shields.io/badge/↓%20DOWNLOAD%20CV-B8F477?style=for-the-badge&logo=adobeacrobatreader&logoColor=142514" alt="Download English CV (PDF)" /></a>
+<a href="https://github.com/Ali-Rostami-1382/Portfolio/raw/refs/heads/main/Ali_Rostami_Frontend_CV_EN.pdf"><img src="https://img.shields.io/badge/↓%20DOWNLOAD%20CV-B8F477?style=for-the-badge&logo=adobeacrobatreader&logoColor=142514" alt="Download English CV (PDF)" /></a>
 <a href="https://t.me/AliRistimi"><img src="https://img.shields.io/badge/✉%20SAY%20HELLO-00BFA6?style=for-the-badge&logo=telegram&logoColor=white" alt="Say hello on Telegram" /></a>
 
 <br/><br/>
