@@ -14,13 +14,13 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ali-Rostami-1382&label=PROFILE+VIEWS&color=7F00FF&style=flat-square)
+![Profile Views](https://viewcounter.live/Ali-Rostami-1382)
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Ali!
+## <img src="https://api.iconify.design/line-md/emoji-smile.svg" width="30" valign="middle" alt="" /> Hey, I’m Ali!
 
 I'm a **frontend developer based in Tehran, Iran**, and someone who's genuinely fascinated by computers and technology.
 
@@ -40,7 +40,7 @@ I even enjoy watching programming tutorials in Russian—because why practice on
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="Animated developer coding" />
 </div>
 
-## 🧰 Technologies I Work With
+## <img src="https://api.iconify.design/line-md/computer.svg" width="30" valign="middle" alt="" /> Technologies I Work With
 
 <div align="center">
 
@@ -60,7 +60,7 @@ I'm always exploring new tools and expanding my understanding of software develo
 
 ---
 
-## 🚀 Things I've Been Building
+## <img src="https://api.iconify.design/line-md/rocket-loop.svg" width="30" valign="middle" alt="" /> Things I’ve Been Building
 
 ### 🌦️ [Atmos — Weather Dashboard](https://github.com/Ali-Rostami-1382/Atmos)
 
@@ -90,7 +90,7 @@ More projects, experiments, and ideas are waiting in my repositories.
   <a href="https://github.com/Ali-Rostami-1382?tab=repositories"><img src="https://img.shields.io/badge/🧪%20BROWSE%20ALL%20REPOSITORIES-00CFE8?style=for-the-badge" alt="Browse all repositories" /></a>
 </div>
 
-## 🧠 Beyond the Code
+## <img src="https://api.iconify.design/line-md/brain.svg" width="30" valign="middle" alt="" /> Beyond the Code
 
 I'm curious about technology in general—not just the parts I use every day. I enjoy exploring how software works, learning new concepts, and using tools, including AI, to improve my workflow while staying involved in the thinking and problem-solving.
 
@@ -101,7 +101,7 @@ My goal is to keep growing as a developer by building things, learning from mist
   <h3>Curiosity is the feature. Learning is the loop. ✨</h3>
 </div>
 
-## 🤝 Let's Connect
+## <img src="https://api.iconify.design/line-md/heart.svg" width="30" valign="middle" alt="" /> Let’s Connect
 
 If you're interested in web development, technology, or building cool things, feel free to explore my work or reach out.
 
@@ -119,7 +119,7 @@ If you're interested in web development, technology, or building cool things, fe
 
 ---
 
-## 📊 GitHub at a Glance
+## <img src="https://api.iconify.design/line-md/chart-twopoint.svg" width="30" valign="middle" alt="" /> GitHub at a Glance
 
 <div align="center">
 
